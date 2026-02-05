@@ -1,9 +1,10 @@
-import Important from "./router";
+
+import MUIDemo from "./router/Mui/mui-demo";
 
 function App(){
   return(
     <div>
-       <Important></Important>
+       <MUIDemo/>
     </div>
   )
 }
