@@ -1,10 +1,12 @@
+import Contact from "./router/Mui/Contact-us";
+import { Home1 } from "./router/Mui/home";
 
-import MUIDemo from "./router/Mui/mui-demo";
+
 
 function App(){
   return(
     <div>
-       <MUIDemo/>
+      <Contact/>
     </div>
   )
 }
